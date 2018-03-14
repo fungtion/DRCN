@@ -10,5 +10,5 @@
 - if there is no Grayscale transform in your torchvision, please replace your `functional.py` and `transforms.py`
 with provided files in `extra`
 - run `python main.py` for training
-- the trained model will be saved in *model*, and recontructed images saved in *recovery_image*
+- the trained model will be saved in `model`, and recontructed images saved in `recovery_image`
 - In our implementation, no denoising include
