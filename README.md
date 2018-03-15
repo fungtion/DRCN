@@ -6,7 +6,7 @@
 
 ## Usage
 
-- put the mnist and svhn data in the entries in *dataset*, respectively
+- put the mnist and svhn data in the entries in `dataset`, respectively
 - if there is no Grayscale transform in your torchvision, please replace your `functional.py` and `transforms.py`
 with provided files in `extra`
 - run `python main.py` for training
