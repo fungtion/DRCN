@@ -12,3 +12,9 @@ with provided files in `extra`
 - run `python main.py` for training
 - the trained model will be saved in `model`, and recontructed images saved in `recovery_image`
 - In our implementation, no denoising include
+
+## Result
+
+![real svhn](./extra/result.jpg)
+
+**Real and Recovered SVHN images** 
