@@ -1,5 +1,10 @@
 ## This is a pytorch implementation of the model [Deep Reconstruction-Classification Network for Unsupervised Domain Adapation (DRCN)](https://arxiv.org/abs/1607.03516).
 
+## Environment
+
+- Pytorch 0.4.0
+- Python 2.7
+
 ## Structure
 
 ![DRCN](./extra/network.jpg)
